@@ -1,3 +1,7 @@
+# Udacity - CarND: Path Planning Project
+
+## Model Documentation
+
 The implemented model consists of the three parts *Sensor Fusion*, *Behavior Planning* and *Trajectory Planning*, which are described in detail below:
 
 ### 1. Sensor Fusion
